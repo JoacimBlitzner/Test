@@ -1,0 +1,10 @@
+package com.joacim_blitzner.testaKeygen;
+
+public class Testa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
